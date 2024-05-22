@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=WeightRecordGUI
+Exec=/home/planetcentric/WeightRecordingSystem_GUI/run_WeightRecordGUI.sh
+Terminal=true
